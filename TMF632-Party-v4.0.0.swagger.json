@@ -1691,7 +1691,7 @@
       "enum": [
         "initialized",
         "validated",
-        "deceaded"
+        "deceased"
       ]
     },
     "LanguageAbility": {
